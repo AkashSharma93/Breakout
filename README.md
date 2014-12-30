@@ -1,0 +1,1 @@
+This is a simple implementation of the game Breakout. It uses the Slick game development library along with the LWJGL. You'll need those two and the native binaries LWJGL offers for your platform to run the game.
